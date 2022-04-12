@@ -1,4 +1,4 @@
-#  Supervised Machine Learning Regression Model for Medical Insurance Data
+# Predictive Analysis for Medical Insurance
 
 **Business Understanding**
 The business under review is a Medical insurance company which is faced with the challenge of proper estimation of medical expenses that is caused by the diverse health conditions of its payees as some conditions are more common within some segments of its population. The objective of this business is to accurately forecast the medical expenses of its payees so that the right annual premium can be collected based on their health conditions. The aim here is to answer three major business questions which are: 
